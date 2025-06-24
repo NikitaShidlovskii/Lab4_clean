@@ -32,15 +32,15 @@ export default {
     return {
       headerParams: {
         title: "Лабораторная работа №4",
-        authorName: "Барсуков Максим",
-        authorUrl: "https://github.com/maxbarsukov",
-        authorGroup: 'P3215',
+        authorName: "Никита Шидловский",
+        authorUrl: "NikitaShidlovskii",
+        authorGroup: 'P3207',
         variant: '14',
-        varUrl: "https://github.com/maxbarsukov-itmo/web-4"
+        varUrl: "https://github.com/NikitaShidlovskii/Lab4_clean"
       },
       footerParams: {
         authorLogoPath: logoUrl,
-        authorUrl: "https://github.com/maxbarsukov",
+        authorUrl: "https://github.com/NikitaShidlovskii",
       },
       loading: true
     }
